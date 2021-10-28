@@ -1,0 +1,220 @@
+body {
+    margin: 0;
+    background-color: rgb(0, 0, 0);
+}
+#container {
+    width: 80%;
+    margin: 0 auto;
+    background-color: rgb(0, 0, 0);
+    box-shadow: 0px 0px 20px rgb(235, 74, 141);
+    color: rgb(255, 255, 255);
+}
+
+header img{
+    width: 100%;
+    height: 150px;
+}
+#principal {
+
+}
+nav {
+    width: 100%
+}
+#contenido {
+    width: 98%;
+    float: right;
+    padding-bottom: 30px;
+
+}
+footer {
+    background-color:rgb(136, 27, 72);
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    text-align: center;
+    padding: 10px;
+}
+.cb {
+    clear: both;
+}
+nav ul, nav li {
+    padding: 0;
+    margin: 0;
+}
+nav li {
+    text-align: center;
+    list-style-type: none;
+    color: rgb(255, 255, 255);
+    font-size: 22px;
+    border: solid 1px rgb(255, 255, 255);
+    padding: 8px;
+    border-radius: 10px;
+    margin-bottom: 4px;
+    box-shadow: 0px 0px 20px rgb(235, 74, 141);
+    float: left;
+    width: 11%;
+}
+nav ul li:hover {
+    color: rgb(0, 0, 0);
+    background-color: rgb(136, 27, 72);
+}
+a {
+    text-decoration: none;
+}
+.text-azulo {
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+#home {
+    text-align: center;
+    float: left;
+}
+.texto {
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+.destacadas {
+    color: rgb(235, 74, 141);
+    font-size: 30px;
+}
+.titulo {
+    text-align: center;
+    font-size: 30px;
+    color: rgb(235, 74, 141);
+}
+.subtitulo {
+    text-align: center;
+    font-size: 25px;
+    color: rgb(136, 27, 72);
+}
+#tablas table {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
+#tdefault th {
+    background-color: rgb(109, 0, 136);
+    color: rgb(235, 96, 154);
+    font-size: 20px;
+}
+#tdefault td {
+    background-color: rgb(235, 96, 154);
+    color: rgb(109, 0, 136);
+}
+#tcombi {
+    width: 80%;
+    margin: 0 auto;
+}
+#tcombi th {
+    background-color: rgb(43, 0, 71);
+    color: rgb(181, 162, 218);
+    font-size: 20px;
+}
+#tcombi td {
+    background-color: rgb(181, 162, 218);
+    color: rgb(43, 0, 71);
+}
+#tparimpar th {
+    background-color: rgb(214, 8, 94);
+    font-size: 20px;
+}
+#tparimpar tr:nth-child(odd) td {
+    background-color: rgb(134, 24, 116);
+}
+#tparimpar tr:nth-child(even) td {
+    background-color: rgb(167, 32, 95);
+}
+#thorario table {
+    width: 90%;
+    margin: 0 auto;
+    border-spacing: 1px;
+}
+#thorario table, #thorario td, #thorario th {
+    border-color: rgb(126, 103, 207);
+    text-align: center
+}
+.fol {
+    background-color: aquamarine;
+}
+.sisi {
+    background-color: blanchedalmond
+}
+.ende {
+    background-color: blue;
+}
+.bdd {
+    background-color: crimson;
+}
+.ing {
+    background-color: rgb(255, 255, 73);
+}
+.lmsg {
+    background-color: cadetblue;
+}
+.prog {
+    background-color: chartreuse;
+}
+#thorario th {
+    color: 
+}
+#thorario td {
+    color: rgb(0, 0, 0);
+}
+.txt-24 {
+    font-size: 24px;
+}
+#customd li {
+    list-style: square;
+}
+#customd li li {
+    list-style: disc;
+}
+#customd li li li {
+    list-style: circle;
+}
+#customo li {
+    list-style-image: url(../img/corazon16.png);
+}
+#customo li li {
+    list-style-type: upper-roman;
+    list-style-image: none;
+}
+#customo li li li {
+    list-style-image: none;
+    list-style-type: lower-alpha;
+}
+#listas dt {
+    font-weight: bold;
+    color: rgb(43, 0, 71);
+    
+}
+.apartado {
+    color: rgb(158, 35, 138);
+}
+#registro fieldset {
+    width: 30%;
+    border-color: rgb(160, 16, 204);
+}
+#formugrande fieldset {
+    width: 40%;
+    border-color: rgb(160, 16, 204);
+}
+#formugrande fieldset fieldset {
+    border-color: rgb(75, 58, 69);
+}
+#formugrande legend {
+    font-size: 20px;
+}
+#registro legend {
+    font-size: 20px;
+}
+legend {
+    color: rgb(202, 52, 177);
+}
+#borrar, #enviarg {
+    border-collapse: separate;
+    border-spacing: 15px;
+    border-bottom-right-radius: 8px
+}
+#formhtml5 {
+    text-align: center;
+}

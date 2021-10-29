@@ -132,28 +132,28 @@ a {
     text-align: center
 }
 .fol {
-    background-color: aquamarine;
+    background-color: #FED232;
 }
 .sisi {
-    background-color: blanchedalmond
+    background-color: #C9A0C8;
 }
 .ende {
-    background-color: blue;
+    background-color: #807FC3;
 }
 .bdd {
-    background-color: crimson;
+    background-color: #81FF81;
 }
 .ing {
-    background-color: rgb(255, 255, 73);
+    background-color: #EFF0C8;
 }
 .lmsg {
-    background-color: cadetblue;
+    background-color: #FE8081;
 }
 .prog {
-    background-color: chartreuse;
+    background-color: #96DC96;
 }
 #thorario th {
-    color: 
+    color: burlywood
 }
 #thorario td {
     color: rgb(0, 0, 0);
@@ -217,6 +217,4 @@ legend {
 #formhtml5 {
     text-align: center;
 }
-#multimedia {
-    
-}
+

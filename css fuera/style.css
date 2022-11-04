@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+}
+#container {
+    width: 80%;
+    margin: 0 auto;
+}
+header {
+    background-color: blueviolet;
+    height: 100px;
+}
+#principal {
+    background-color: chartreuse;
+}
+nav {
+    background-color: cornflowerblue;
+    height: 400px;
+    width: 20%;
+    float: left;
+}
+#contenido {
+    background-color: fuchsia;
+    height: 400px;
+    width: 80%;
+    float: right;
+}
+footer {
+    background-color: gold;
+    height: 60px;
+}
+.cb {
+    clear: both;
+}
